@@ -1,6 +1,6 @@
 # `JavaScript 30`
 
-Accepting the 30 day challenge by Wes Bos
+Accepting the 30 day challenge by Wes Bos.
 You can access to the original course [here][javascript30-course]
 
 In addition, I link some useful (I guess :v) documentation according to the topics related in each challenge.
