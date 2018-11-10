@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37ec92e7-30e9-420a-b2af-14524d1327cd" name="Default Changelist" comment="" />
+    <list default="true" id="37ec92e7-30e9-420a-b2af-14524d1327cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - JS and CSS Clock/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,54 +22,55 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="496" />
-          <entry key="md" value="711" />
+          <entry key="html" value="673" />
+          <entry key="md" value="825" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="496" />
-          <entry key="Markdown" value="711" />
+          <entry key="HTML" value="673" />
+          <entry key="Markdown" value="825" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <first_editor relative-caret-position="357">
+                <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="80" column="50" lean-forward="true" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+            <state relative-caret-position="436">
+              <caret line="67" column="66" selection-start-line="67" selection-start-column="66" selection-end-line="67" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -80,6 +85,7 @@
       <list>
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/02 - JS and CSS Clock/index.html" />
       </list>
     </option>
   </component>
@@ -90,10 +96,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="397" />
-    <option name="y" value="298" />
-    <option name="width" value="1219" />
-    <option name="height" value="558" />
+    <option name="x" value="396" />
+    <option name="y" value="297" />
+    <option name="width" value="1220" />
+    <option name="height" value="559" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -110,7 +116,7 @@
             <path>
               <item name="javascript-30" type="b2602c69:ProjectViewProjectNode" />
               <item name="javascript-30" type="462c0819:PsiDirectoryNode" />
-              <item name="01 - JavaScript Drum Kit" type="462c0819:PsiDirectoryNode" />
+              <item name="02 - JS and CSS Clock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,14 +155,16 @@
       <updated>1541716176650</updated>
       <workItem from="1541716177853" duration="89000" />
       <workItem from="1541716357580" duration="6864000" />
+      <workItem from="1541889456225" duration="1513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6953000" />
+    <option name="totallyTimeSpent" value="8466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20026438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -184,23 +192,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="80" column="50" lean-forward="true" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <first_editor relative-caret-position="357">
+            <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
       <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="80" column="50" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="67" column="66" selection-start-line="67" selection-start-column="66" selection-end-line="67" selection-end-column="66" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

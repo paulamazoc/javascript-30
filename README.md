@@ -19,4 +19,4 @@ Using KeyEvents to reproduce sounds and listening for transitions to add/remove 
  ## Day 2. JS and CSS Clock :clock3:
 
 [javascript30-course]: https://javascript30.com
-
+Building a clock with CSS. It updates with the current time from JavaScript.
