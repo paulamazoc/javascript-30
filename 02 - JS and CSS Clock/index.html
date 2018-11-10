@@ -72,6 +72,21 @@
 
   <script>
 
+    const secondHand = document.querySelector('.second-hand'); /*Returns the hole div*/
+
+    function setDate(){
+        const date = new Date();
+
+        const seconds = date.getSeconds();
+        const secondsDegrees = ((seconds / 60) * 360) + 90;
+        secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
+        
+        console.log(seconds);
+        console.log(secondsDegrees);
+        console.log(secondHand);
+    }
+
+    setInterval(setDate, 1000);
 
   </script>
 </body>
