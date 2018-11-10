@@ -15,7 +15,8 @@ Using KeyEvents to reproduce sounds and listening for transitions to add/remove 
  * :newspaper: [JavaScript Event Keycode](http://keycode.info/)
  * :newspaper: [HTML Audio/Video Methods](https://www.w3schools.com/tags/ref_av_dom.asp)
  * :newspaper: [Accessing Elements with querySelector and querySelectorAll](https://alligator.io/js/queryselector-queryselectorall/)
- 
+
+ ## Day 2. JS and CSS Clock :clock3:
 
 [javascript30-course]: https://javascript30.com
 
