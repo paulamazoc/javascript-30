@@ -73,20 +73,45 @@
   <script>
 
     const secondHand = document.querySelector('.second-hand'); /*Returns the hole div*/
+    const minutesHand = document.querySelector('.min-hand');
+    const hourHand = document.querySelector('.hour-hand');
+
+    let seconds=null;
+    let secondsDegrees;
 
     function setDate(){
         const date = new Date();
 
-        const seconds = date.getSeconds();
-        const secondsDegrees = ((seconds / 60) * 360) + 90;
+
+        if(seconds!==null){
+            console.log("sumar");
+            secondsDegrees=secondsDegrees+(360/60);
+        }
+        else{
+            console.log("iniciar");
+            seconds = date.getSeconds();
+            secondsDegrees = seconds*(360/60) +90;
+
+        }
         secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
-        
-        console.log(seconds);
-        console.log(secondsDegrees);
-        console.log(secondHand);
+
+
+        const minutes = date.getMinutes();
+        const minutesDegrees = ((minutes / 60) * 360)+90;
+        minutesHand.style.transform = `rotate(${minutesDegrees}deg)`;
+
+        let hours = date.getHours();
+        console.log(hours);
+        if(hours>12)
+            hours=hours-12;
+        console.log(hours);
+        const hoursDegrees = hours * (360/12) + 90;
+        console.log(hoursDegrees);
+        hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
     }
 
     setInterval(setDate, 1000);
+    //setDate();
 
   </script>
 </body>

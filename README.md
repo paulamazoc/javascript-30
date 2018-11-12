@@ -19,4 +19,8 @@ Using KeyEvents to reproduce sounds and listening for transitions to add/remove 
  ## Day 2. JS and CSS Clock :clock3:
 
 [javascript30-course]: https://javascript30.com
-Building a clock with CSS. It updates with the current time from JavaScript.
+Building a clock with CSS. It updates with the current time from JavaScript. This exercise shows how works some CSS animation properties like `transform-origin`, `transition` and `transition-timing-function`. 
+
+* :newspaper: [CSS Animation Shorthand Property](https://alligator.io/css/animation-shorthand/)
+* :newspaper: [CSS: Transition Timing Functions](https://www.the-art-of-web.com/css/timing-function/) (Pretty complete info actually)
+* :newspaper: [CSS3 Animation with Transitions & Transforms](https://medium.com/@kswanie21/css3-animations-with-transitions-transforms-5a9c01e5efb5) (Good examples!)
