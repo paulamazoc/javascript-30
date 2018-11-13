@@ -16,11 +16,18 @@ Using KeyEvents to reproduce sounds and listening for transitions to add/remove 
  * :newspaper: [HTML Audio/Video Methods](https://www.w3schools.com/tags/ref_av_dom.asp)
  * :newspaper: [Accessing Elements with querySelector and querySelectorAll](https://alligator.io/js/queryselector-queryselectorall/)
 
- ## Day 2. JS and CSS Clock :clock3:
+## Day 2. JS and CSS Clock :clock3:
 
 [javascript30-course]: https://javascript30.com
 Building a clock with CSS. It updates with the current time from JavaScript. This exercise shows how works some CSS animation properties like `transform-origin`, `transition` and `transition-timing-function`. 
 
+### Documentation
+
 * :newspaper: [CSS Animation Shorthand Property](https://alligator.io/css/animation-shorthand/)
 * :newspaper: [CSS: Transition Timing Functions](https://www.the-art-of-web.com/css/timing-function/) (Pretty complete info actually)
 * :newspaper: [CSS3 Animation with Transitions & Transforms](https://medium.com/@kswanie21/css3-animations-with-transitions-transforms-5a9c01e5efb5) (Good examples!)
+
+## Day 3. JS and CSS Clock :clock3:
+asdf
+
+### Documentation
