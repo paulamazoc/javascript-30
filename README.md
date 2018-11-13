@@ -27,7 +27,7 @@ Building a clock with CSS. It updates with the current time from JavaScript. Thi
 * :newspaper: [CSS: Transition Timing Functions](https://www.the-art-of-web.com/css/timing-function/) (Pretty complete info actually)
 * :newspaper: [CSS3 Animation with Transitions & Transforms](https://medium.com/@kswanie21/css3-animations-with-transitions-transforms-5a9c01e5efb5) (Good examples!)
 
-## Day 3. JS and CSS Clock :clock3:
-asdf
+## Day 3. Playing with CSS Variables and JS :star2:
+Updating CSS variables with with JavaScript.
 
-### Documentation
+### Documentations
