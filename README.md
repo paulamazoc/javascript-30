@@ -31,5 +31,11 @@ Building a clock with CSS. It updates with the current time from JavaScript. Thi
 ## Day 3. Playing with CSS Variables and JS :star2:
 Shows how to create CSS variables and how to update it with JavaScript. He also illustrates some differences between arrays and NodeLists and how to handle this last one.
 
-### Documentations
+### Documentation
 * :newspaper: [HTMLCollection, NodeList and Array of Objects](https://hackernoon.com/htmlcollection-nodelist-and-array-of-objects-da42737181f9)
+
+## Day 4. Array Cardio Day 1 :twisted_rightwards_arrows:
+Talks about the fundamentals of Arrays in JavaScript and the methods to manipulate them.
+
+### Documentation
+
