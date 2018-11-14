@@ -26,8 +26,10 @@ Building a clock with CSS. It updates with the current time from JavaScript. Thi
 * :newspaper: [CSS Animation Shorthand Property](https://alligator.io/css/animation-shorthand/)
 * :newspaper: [CSS: Transition Timing Functions](https://www.the-art-of-web.com/css/timing-function/) (Pretty complete info actually)
 * :newspaper: [CSS3 Animation with Transitions & Transforms](https://medium.com/@kswanie21/css3-animations-with-transitions-transforms-5a9c01e5efb5) (Good examples!)
+* :newspaper: [Cubic-bezier simulator](http://cubic-bezier.com/)
 
 ## Day 3. Playing with CSS Variables and JS :star2:
-Updating CSS variables with with JavaScript.
+Shows how to create CSS variables and how to update it with JavaScript. He also illustrates some differences between arrays and NodeLists and how to handle this last one.
 
 ### Documentations
+* :newspaper: [HTMLCollection, NodeList and Array of Objects](https://hackernoon.com/htmlcollection-nodelist-and-array-of-objects-da42737181f9)
