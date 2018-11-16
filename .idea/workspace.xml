@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37ec92e7-30e9-420a-b2af-14524d1327cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/04 - Array Cardio Day 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Array Cardio Day 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,36 +42,36 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="4675" />
-          <entry key="md" value="1280" />
+          <entry key="md" value="1382" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="4675" />
-          <entry key="Markdown" value="1280" />
+          <entry key="Markdown" value="1382" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="663">
-                <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+              <first_editor relative-caret-position="590">
+                <caret line="44" selection-start-line="44" selection-end-line="44" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 - Array Cardio Day 1/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="548">
-              <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
             </state>
           </provider>
         </entry>
@@ -86,8 +87,8 @@
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/index.html" />
         <option value="$PROJECT_DIR$/02 - JS and CSS Clock/index.html" />
         <option value="$PROJECT_DIR$/03 - CSS Variables/index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/04 - Array Cardio Day 1/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -162,12 +163,12 @@
       <workItem from="1542152013433" duration="1256000" />
       <workItem from="1542225058216" duration="7449000" />
       <workItem from="1542324013048" duration="2828000" />
-      <workItem from="1542397674918" duration="7082000" />
+      <workItem from="1542397674918" duration="8631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38689000" />
+    <option name="totallyTimeSpent" value="40238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -220,23 +221,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04 - Array Cardio Day 1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="663">
-            <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <first_editor relative-caret-position="590">
+            <caret line="44" selection-start-line="44" selection-end-line="44" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
       <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04 - Array Cardio Day 1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
