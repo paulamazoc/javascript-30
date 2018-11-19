@@ -35,7 +35,7 @@ Shows how to create CSS variables and how to update it with JavaScript. He also 
 * :newspaper: [HTMLCollection, NodeList and Array of Objects](https://hackernoon.com/htmlcollection-nodelist-and-array-of-objects-da42737181f9)
 
 ## Day 4. Array Cardio Day 1 :muscle:
-Talks about the fundamentals of Arrays in JavaScript and the methods to manipulate them.
+Talks about the fundamentals of Arrays in JavaScript and the methods to manipulate them (Some functional programming).
 
 ### Documentation
 * :newspaper: [How to use Map, Filter, & Reduce in JavaScript](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
