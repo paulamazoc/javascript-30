@@ -45,4 +45,8 @@ Talks about the fundamentals of Arrays in JavaScript and the methods to manipula
 * :newspaper: [Using JavaScript's sort Method for Sorting Arrays of Strings](https://alligator.io/js/array-sort-strings/)
 
 ## Day 5. Flex Panels Image Gallery :iphone:
+Use some CSS Flexbox properties to organize some items (images and labels) in a page layout. Also make some transformations thought the `click` event. 
 
+### Documentation
+*:newspaper: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+*:newspaper: [Adding, Removing & Toggling Classes With ClassList in JavaScript](https://alligator.io/js/classlist/)
