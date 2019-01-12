@@ -50,3 +50,5 @@ Use some CSS Flexbox properties to organize some items (images and labels) in a 
 ### Documentation
 *:newspaper: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 *:newspaper: [Adding, Removing & Toggling Classes With ClassList in JavaScript](https://alligator.io/js/classlist/)
+
+## Day 6. Type Ahead :point_up_2:
